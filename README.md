@@ -33,19 +33,17 @@
 
 ### Requirements
 
-The function is written in C language so you need a C compiler like 'gcc' to run.
+The function is written in `C language` so you need a C compiler like `gcc` to run.
 
 ### Instructions
 
 **1. Clone this repository**
 
-To use the function in your code, simply include its header:
-
-```git
+```
 git clone git@github.com/joseph-el/42_get_next_line.git
 ```
 
-**2. include its header if you want use the function in your code**
+**2. include the header if you want to use this function in your code**
 
 ```C
 #include "../includes/get_next_line.h"
@@ -89,6 +87,10 @@ and entre 0
 
 ## screenshot
 
+**1**
+
 <img width="581" alt="Screen Shot 2022-11-03 at 00 06 46" src="https://user-images.githubusercontent.com/80905157/199619104-ee5b5127-0d05-4656-890b-b3b1a9191694.png">
+
+**2**
 
 <img width="624" alt="Screen Shot 2022-11-03 at 00 07 52" src="https://user-images.githubusercontent.com/80905157/199619127-feb8983e-715e-4d78-b323-a0c9c344500e.png">
