@@ -55,7 +55,7 @@ or
 
 ## 📋 Testing
 
-**You can use the joseph script in root folder by this steps:
+**You can use the joseph script in root folder by this steps:**
 > For get_next_line.c
 ```shell
 sh joseph.sh
@@ -69,7 +69,26 @@ and entre 1
 sh joseph.sh
 and entre 2
 ```
-![Uploading Screen Shot 2022-11-02 at 23.55.39.png…]()
+<img width="368" alt="Screen Shot 2022-11-02 at 23 55 39" src="https://user-images.githubusercontent.com/80905157/199618291-8f3917df-d46e-42b5-b27a-af46f2658986.png">
 
+> For get_next_line.c writen with linked list
 
+```shell
+sh joseph.sh
+and entre 3
+```
+<img width="368" alt="Screen Shot 2022-11-02 at 23 55 46" src="https://user-images.githubusercontent.com/80905157/199618608-656597b1-a37b-46aa-ac76-b4e2674338fc.png">
 
+> For Cleaning
+
+```shell
+sh joseph.sh
+and entre 0
+```
+<img width="368" alt="Screen Shot 2022-11-02 at 23 55 51" src="https://user-images.githubusercontent.com/80905157/199618678-839d2c18-9b6f-4fa2-914c-d81957e5acd8.png">
+
+## screenshot
+
+<img width="581" alt="Screen Shot 2022-11-03 at 00 06 46" src="https://user-images.githubusercontent.com/80905157/199619104-ee5b5127-0d05-4656-890b-b3b1a9191694.png">
+
+<img width="624" alt="Screen Shot 2022-11-03 at 00 07 52" src="https://user-images.githubusercontent.com/80905157/199619127-feb8983e-715e-4d78-b323-a0c9c344500e.png">
