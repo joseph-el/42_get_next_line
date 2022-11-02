@@ -1,0 +1,6 @@
+The kernel is the essential foundation of a computer's operating system (OS)
+. It is the core that provides basic services for all other parts of the OS
+. It is the main layer between the OS and underlying computer hardware,
+and it helps with tasks such as process and memory management, 
+file systems
+device control and networking.

@@ -1,0 +1,14 @@
+Scheduling and management
+are central to the kernel's
+operation. Computer hardware
+can only do one thing at a time.
+However, a computer's OS
+components and applications
+can spawn dozens and even hundreds
+of processes that the computer
+must host. It's impossible
+for all of those processes
+to use the computer's hardware --
+such as a memory address or CPU instruction pipeline -- at the same time. The kernel is the central manager of these processes. It knows which hardware resources
+are available and which processes need them.
+It then allocates time for each process to use those resources.
