@@ -6,9 +6,8 @@
 	<b><i>Reading a line on a fd </i></b><br>
 <p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/joseph-el/42_get_next_line?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/joseph-el/42_get_next_line?color=critical" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/joseph-el/42_get_next_line?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jjoseph-el/42_get_next_line?color=blue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joseph-el/42_get_next_line?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joseph-el/42_get_next_line?color=green" />
  
  
