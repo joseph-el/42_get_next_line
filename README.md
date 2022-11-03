@@ -45,9 +45,9 @@ git clone git@github.com/joseph-el/42_get_next_line.git
 **2. include the header if you want to use this function in your code**
 
 ```C
-#include "../GNL_with_bonus/get_next_line.h"
+#include "../GNL_with_bonus/get_next_line_bonus.h"
 or
-#include"../GNL_with_linked_list/get_next_line_bonus.h"
+#include"../GNL_with_linked_list/get_next_line.h"
 ```
 
 ## 📋 Testing
