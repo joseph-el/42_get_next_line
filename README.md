@@ -18,7 +18,7 @@
 ---
 
 ## 💡 About Project
-> _This project is writing by two form  1 using linked list 2 using arrays
+> _This project is writing by two form  1 using linked list 2 using arrays._
 
 > _The aim of this project is to make you code a function that returns a line, read from a file descriptor._
 
@@ -45,9 +45,9 @@ git clone git@github.com/joseph-el/42_get_next_line.git
 **2. include the header if you want to use this function in your code**
 
 ```C
-#include "../includes/get_next_line.h"
+#include "../GNL_with_bonus/get_next_line.h"
 or
-#include"../includes/get_next_line_bonus.h"
+#include"../GNL_with_linked_list/get_next_line_bonus.h"
 ```
 
 ## 📋 Testing
