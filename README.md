@@ -10,12 +10,6 @@
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/joseph-el/42_get_next_line?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/joseph-el/42_get_next_line?color=green" />
  
- 
-<h3 align="center">
-	<a href="#%EF%B8%8F-about">ENJOY</a>
- </h3>
- 
----
 
 ## 💡 About Project
 > _This project is writing by two form  1 using linked list 2 using arrays._
