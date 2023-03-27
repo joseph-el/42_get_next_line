@@ -6,7 +6,7 @@
 /*   By: yoel-idr <yoel-idr@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/02 18:07:56 by yoel-idr          #+#    #+#             */
-/*   Updated: 2022/11/02 22:08:03 by yoel-idr         ###   ########.fr       */
+/*   Updated: 2023/03/27 23:51:21 by yoel-idr         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,7 +24,7 @@
 # include <string.h>
 # include <unistd.h>
 
-#include "../GNL_with_bonus/get_next_line.h"
-#include "../GNL_with_linked_list/get_next_line.h"
+#include "../GNL_using_arrays/get_next_line.h"
+#include "../GNL_using_linked_list/get_next_line.h"
 
 #endif
