@@ -62,7 +62,7 @@ and write 2
 ```
 <img width="368" alt="Screen Shot 2022-11-02 at 23 55 39" src="https://user-images.githubusercontent.com/80905157/199618291-8f3917df-d46e-42b5-b27a-af46f2658986.png">
 
-> For get_next_line.c writen with linked list
+> For get_next_line.c writen using linked list
 
 ```shell
 sh joseph.sh
