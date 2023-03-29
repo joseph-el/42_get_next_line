@@ -39,9 +39,9 @@ git clone git@github.com/joseph-el/42_get_next_line.git
 **2. include the header if you want to use this function in your code**
 
 ```C
-#include "../GNL_with_bonus/get_next_line_bonus.h"
+#include "../GNL_using_arrays/get_next_line_bonus.h"
 or
-#include"../GNL_with_linked_list/get_next_line.h"
+#include"../GNL_using_linked_list/get_next_line.h"
 ```
 
 ## 📋 Testing
@@ -50,7 +50,7 @@ or
 > For get_next_line.c
 ```shell
 sh joseph.sh
-and entre 1
+and write 1
 ```
 <img width="368" alt="Screen Shot 2022-11-02 at 23 54 09" src="https://user-images.githubusercontent.com/80905157/199617596-3c3eb7cb-37c5-456f-9e96-2a34c491cbd1.png">
 
@@ -58,7 +58,7 @@ and entre 1
 
 ```shell
 sh joseph.sh
-and entre 2
+and write 2
 ```
 <img width="368" alt="Screen Shot 2022-11-02 at 23 55 39" src="https://user-images.githubusercontent.com/80905157/199618291-8f3917df-d46e-42b5-b27a-af46f2658986.png">
 
@@ -66,7 +66,7 @@ and entre 2
 
 ```shell
 sh joseph.sh
-and entre 3
+and write 3
 ```
 <img width="368" alt="Screen Shot 2022-11-02 at 23 55 46" src="https://user-images.githubusercontent.com/80905157/199618608-656597b1-a37b-46aa-ac76-b4e2674338fc.png">
 
@@ -74,7 +74,7 @@ and entre 3
 
 ```shell
 sh joseph.sh
-and entre 0
+and write 0
 ```
 <img width="368" alt="Screen Shot 2022-11-02 at 23 55 51" src="https://user-images.githubusercontent.com/80905157/199618678-839d2c18-9b6f-4fa2-914c-d81957e5acd8.png">
 
